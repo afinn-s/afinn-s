@@ -1,0 +1,10 @@
+# Clang Format 21
+---
+Language: Cpp
+
+BreakBeforeBraces:          Allman
+Cpp11BracedListStyle:       False
+PointerAlignment:           Left
+SpaceBeforeCpp11BracedList: True
+...
+
