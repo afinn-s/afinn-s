@@ -5,6 +5,8 @@ Language: Cpp
 AllowShortFunctionsOnASingleLine:     None
 BreakBeforeBraces:                    Allman
 Cpp11BracedListStyle:                 False
+IndentWidth:                          4
 PointerAlignment:                     Left
 SpaceBeforeCpp11BracedList:           True
+TabWidth:                             4
 ...
