@@ -4,6 +4,7 @@ Language: Cpp
 
 AllowShortFunctionsOnASingleLine:     None
 BreakBeforeBraces:                    Allman
+BreakTemplateDeclarations:            Yes
 Cpp11BracedListStyle:                 False
 IndentWidth:                          4
 PointerAlignment:                     Left
