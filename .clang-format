@@ -6,8 +6,8 @@ AllowShortFunctionsOnASingleLine:     None
 BreakBeforeBraces:                    Allman
 BreakTemplateDeclarations:            Yes
 Cpp11BracedListStyle:                 False
-IndentWidth:                          4
+IndentWidth:                          3
 PointerAlignment:                     Left
 SpaceBeforeCpp11BracedList:           True
-TabWidth:                             4
+TabWidth:                             3
 ...
